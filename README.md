@@ -1,4 +1,5 @@
 # AmazonClone
-This is an Frontend Amazon Clone
+This is a Frontend Amazon Clone. 
 <br>
 Author - Ayush Srivastava
+ 
